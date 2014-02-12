@@ -8,3 +8,5 @@
 *garlic
 
 ## Directions
+1.  Add everything together
+2.  Fry them in a pan
