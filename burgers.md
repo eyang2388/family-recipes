@@ -1,4 +1,6 @@
 #directions
+*Need ketchup
+*Need lettuce
 *Need patties
 *Need cheese
 i*Need buns
