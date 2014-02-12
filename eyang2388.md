@@ -4,5 +4,7 @@
 *Pork
 *Beef
 *Crab
+*Ginger
+*garlic
 
 ## Directions
